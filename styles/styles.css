@@ -1,0 +1,324 @@
+body {
+	padding-top: 54px;
+	padding-left: 52px;
+}
+
+header {
+	margin-bottom: 52px;
+}
+
+.active {
+	color: #4E6FAE;
+}
+
+
+.li1 {
+	display: inline-block;
+	margin-left: 87px;
+}
+
+a {
+		color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 60px;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.date {
+	width: 50px;
+	height: 50px;
+	background: #5012D5;
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-top: 8px;
+	padding-left: 10px;
+	margin-bottom: 28px;
+}
+
+.month {
+	color: #8D81FF;
+	font-family: "BPG Square", sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 8px;
+}
+
+.title {
+	color: #4E6FAE;
+	font-family: "BPG Square", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 13px;
+}
+
+.banner1 {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 66px;
+	font-size: 50px;
+	margin-bottom: 255px;
+}
+
+.article {
+	display: inline-block;
+	width: 778px;
+	height: 281px;
+	vertical-align: top;
+}
+
+.p-1 {
+	color: #4E6FAE;
+	font-family: "BPG Square", sans-serif;
+	font-size: 19px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 32px;
+	width: 1170px;
+}
+
+.p-last {
+	margin-bottom: 15px;
+}
+
+.li2 {
+	color: #4E6FAE;
+	font-family: "BPG Square", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.banner2{
+	margin-bottom: 129px;
+	margin-right: 66px;
+}
+
+.banner3 {
+	margin-top: 14px;
+	margin-bottom: 10px;
+}
+
+.article3 {
+	width: 778px;
+	height: 281px;
+}
+
+
+footer {
+	display: inline-block;
+	margin-top: 60px;
+}
+
+ .icon {
+ 	margin-right: 55px;
+ }
+
+body {
+	padding-bottom: 50px;
+}
+
+
+.container {
+	width: 1052px;
+	margin: 0 auto;
+}
+
+.banner {
+	width: 100%;
+}
+
+.sec-2 {
+	margin-top: 120px;
+	margin-bottom: 93px;
+}
+
+.title {
+	margin-bottom: 26px;
+}
+
+h1 {
+	color: #4E6FAE;	
+    font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 18px;
+}
+
+h2 {
+	color: #4E6FAE;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.line {
+	width: 2px;
+	height: 24px;
+	background-color: #5012D5;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 18px;
+}
+
+.box1 {
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	margin-right: 48px;
+	vertical-align: middle;
+}
+
+.box2 {
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+/*
+footer {
+	margin-top: 93px;
+}
+*/
+
+.line2 {
+	margin: 0 41px;
+}
+
+h3 {
+	color: #3F4145;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-left: 21px;
+	padding-top: 21px;
+}
+
+.minilogo1 {
+	padding-left: 36px;
+	padding-top: 30px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.text {
+	display: inline-block;
+}
+
+h6 {
+	width: 355px;
+	height: 95px;
+	display: inline-block;
+	vertical-align: middle;
+	padding-top: 32px;
+	padding-left: 37px;
+	font-size: 20px;
+	font-family: Roboto;
+}
+
+
+h4 {
+	font-family: "Arial GEO BoldItalic", sans-serif;
+	font-weight: 400;
+}
+
+footer {
+	display: block;
+	margin-top: 30px;
+}
+
+.box {
+	background: #E7E7E7;
+	width: auto;
+	height: 735px;
+	margin-left: -50px;
+}
+
+.title2 {
+	color: #4E6FAE;
+	font-family: Helvetica Neue;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	width: 580px;
+	height: 34px;
+	padding-top: 93px;
+	padding-left: 163px;
+} 
+
+.addres {
+	color: #7E8898;
+	font-family: Helvetica Neue LT GEO;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-top: 57px;
+	padding-left: 163px;
+}
+
+.tel {
+	color: #7E8898;
+	font-family: Helvetica Neue LT GEO;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-left: 163px;
+}
+
+.gmail {
+	color: #7E8898;
+	font-family: Helvetica Neue LT GEO;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-left: 163px;
+}
+
+iframe {
+	padding-top: 93px;
+	vertical-align: middle;
+	display: inline-block;
+	padding-left: 100px;
+}
+
+.div3 {
+	display: inline-block;
+}
